@@ -35,11 +35,8 @@ unsigned long previousTime = 0;
 const long timeoutTime = 2000;
 
 // WiFi credentials
-const char* ssid = "Borus";
-const char* password = "borus0359";
-
-// const char* ssid = "Bnotlea2";
-// const char* password = "027193572";
+const char* ssid = "NAME";
+const char* password = "PASSWORD";
 
 int lockPos = 0;      // Locked position limit
 int unlockPos = 180;  // Unlocked position limit
